@@ -37,4 +37,7 @@
 
     <!-- Background color for the icons -->
     <color name="icon_background">#FFF7DA</color>
+
+    <!-- Color of text of unselected tab -->
+    <color name="tab_text_color">#A8A19E</color>
 </resources>
